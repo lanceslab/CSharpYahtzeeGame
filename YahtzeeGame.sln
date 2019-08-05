@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YahtzeeGame", "YahtzeeGame\YahtzeeGame.csproj", "{034B81D1-D16A-48DD-9FD2-EA5F01A78B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{034B81D1-D16A-48DD-9FD2-EA5F01A78B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034B81D1-D16A-48DD-9FD2-EA5F01A78B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034B81D1-D16A-48DD-9FD2-EA5F01A78B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034B81D1-D16A-48DD-9FD2-EA5F01A78B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
